@@ -1,5 +1,7 @@
 Consider the following schemas :
+
 Emp(EMPNO, ENAME, JOB, MGR, HIREDATE, SAL, COMM, DEPTNO)
+
 Dept(DEPTNO, DNAME, LOC)
 
 1. Create table Emp.
