@@ -1,4 +1,4 @@
-kConsider the following schemas :
+Consider the following schemas :
 
 Emp(EMPNO, ENAME, JOB, MGR, HIREDATE, SAL, COMM, DEPTNO)
 
